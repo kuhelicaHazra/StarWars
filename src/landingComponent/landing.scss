@@ -1,0 +1,65 @@
+$color_white: white;
+$yellow: yellow;
+
+.ant-anchor-link-title{
+    color: #ffe200 !important;
+    font-size: 2em;
+}
+.text_color{
+    color:$color_white;
+    display: flex;
+}
+.yellow{
+  color: $yellow;
+  font-size: 2em;
+}
+.content{
+  font-size: 2vh;
+  padding: 1vh;
+}
+.crown{
+  font-size: 1em;
+}
+.spaceImg{
+  font-size: 2em;
+}
+.divider{
+  color: 'yellowgreen';
+  font-size:30px;
+  font-family:'fantasy'
+}
+.subdetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.App-logo {
+  height: 5vmin;
+  pointer-events: none;
+  position: relative;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    // animation: App-logo-spin infinite 20s linear, movestraight linear infinite 2s alternate;/
+    animation: App-logo-spin infinite 20s linear
+  }
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes movestraight {
+  0%   {left:0px; top:0px;}
+  100%  {left:300px; top:0px;}
+}

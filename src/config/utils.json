@@ -1,0 +1,23 @@
+{
+    "starwars": "https://sguru.org/wp-content/uploads/2018/02/star_wars_logo_PNG36.png",
+    "force": "https://images.fineartamerica.com/images/artworkimages/medium/3/may-the-force-be-with-you-classic-version-dafydd-jones-transparent.png",
+    "heart": "https://th.bing.com/th/id/R.afbeb205f79eec5efb6e4ce29f8f0e70?rik=eqrz9W%2bwVQrdKg&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fline-png-transparent%2fline-png-transparent-25.png&ehk=7Mrr2UD6LiBlPQDcma1jv9PwNjjIUHb8%2fkBEPQ7QtXA%3d&risl=&pid=ImgRaw&r=0",
+    "films": "https://swapi.dev/api/films/",
+    "people": "https://swapi.dev/api/people/",
+    "planets": "https://swapi.dev/api/planets/",
+    "species": "https://swapi.dev/api/species/",
+    "starships": "https://swapi.dev/api/starships/",
+    "vehicles": "https://swapi.dev/api/vehicles/",
+    "containerHeight": 400,
+    "spaceship":[
+      "https://i.pinimg.com/originals/32/e7/ba/32e7ba1dfcb3f7d4a1f2331391fe2893.png",
+      "https://purepng.com/public/uploads/large/purepng.com-star-warsstar-warsspace-opera-franchisefilm-star-warswarsstar-1701527826657skhtj.png",
+      "https://i.pinimg.com/originals/32/e7/ba/32e7ba1dfcb3f7d4a1f2331391fe2893.png",
+      "https://purepng.com/public/uploads/large/purepng.com-star-warsstar-warsspace-opera-franchisefilm-star-warswarsstar-1701527826657skhtj.png",
+      "https://i.pinimg.com/originals/32/e7/ba/32e7ba1dfcb3f7d4a1f2331391fe2893.png",
+      "https://purepng.com/public/uploads/large/purepng.com-star-warsstar-warsspace-opera-franchisefilm-star-warswarsstar-1701527826657skhtj.png",
+      "https://i.pinimg.com/originals/32/e7/ba/32e7ba1dfcb3f7d4a1f2331391fe2893.png",
+      "https://purepng.com/public/uploads/large/purepng.com-star-warsstar-warsspace-opera-franchisefilm-star-warswarsstar-1701527826657skhtj.png",
+      "https://i.pinimg.com/originals/32/e7/ba/32e7ba1dfcb3f7d4a1f2331391fe2893.png"
+    ]
+  }
