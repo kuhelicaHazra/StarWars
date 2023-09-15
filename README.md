@@ -16,9 +16,9 @@ Done based on Requirement posted.
 
 ### Tech stack Used:
 Frontend --> ReactJs
+
 CSS --> Ant Design, SASS
 
-### No test cases added as of now
 
 ### Screenshots:
 Loading:
