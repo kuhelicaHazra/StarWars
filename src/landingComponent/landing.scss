@@ -1,11 +1,16 @@
 $color_white: white;
 $yellow: yellow;
 
+.ant-divider{
+  border-top: dotted !important;
+  border-color: cornsilk !important;
+}
+
 .ant-anchor-link-title{
     color: #ffe200 !important;
     font-size: 2em;
 }
-.text_color{
+.text_color,.ant-divider-inner-text{
     color:$color_white;
     display: flex;
 }
@@ -17,9 +22,7 @@ $yellow: yellow;
   font-size: 2vh;
   padding: 1vh;
 }
-.crown{
-  font-size: 1em;
-}
+
 .spaceImg{
   font-size: 2em;
 }

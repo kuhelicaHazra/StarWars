@@ -9,6 +9,7 @@
     "starships": "https://swapi.dev/api/starships/",
     "vehicles": "https://swapi.dev/api/vehicles/",
     "containerHeight": 400,
+    "loadimg":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c110454-5b33-4416-bf9b-72992c7cb56f/d60eb1v-79212624-e842-4e55-8d58-4ac7514ca8e4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yYzExMDQ1NC01YjMzLTQ0MTYtYmY5Yi03Mjk5MmM3Y2I1NmYvZDYwZWIxdi03OTIxMjYyNC1lODQyLTRlNTUtOGQ1OC00YWM3NTE0Y2E4ZTQuZ2lmIn1dXX0.Xec9CX8HQuT4UiXvVsDK6chlU9zaegg8baqFaHnzew0",
     "spaceship":[
       "https://i.pinimg.com/originals/32/e7/ba/32e7ba1dfcb3f7d4a1f2331391fe2893.png",
       "https://purepng.com/public/uploads/large/purepng.com-star-warsstar-warsspace-opera-franchisefilm-star-warswarsstar-1701527826657skhtj.png",
@@ -19,5 +20,22 @@
       "https://i.pinimg.com/originals/32/e7/ba/32e7ba1dfcb3f7d4a1f2331391fe2893.png",
       "https://purepng.com/public/uploads/large/purepng.com-star-warsstar-warsspace-opera-franchisefilm-star-warswarsstar-1701527826657skhtj.png",
       "https://i.pinimg.com/originals/32/e7/ba/32e7ba1dfcb3f7d4a1f2331391fe2893.png"
+    ],
+    "navItems":[
+      {
+        "key": "part-1",
+        "href": "#part-1",
+        "title": "StarShips"
+      },
+      {
+        "key": "part-2",
+        "href": "#part-2",
+        "title": "People"
+      },
+      {
+        "key":"part-3",
+        "href": "#part-3",
+        "title": "Planets"
+      }
     ]
   }

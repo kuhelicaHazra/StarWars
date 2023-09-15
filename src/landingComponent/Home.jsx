@@ -7,8 +7,8 @@ import useShipsFilter from '../customHooks/useShipsFilter';
 
 function Home(props) {
     const [data] = useShips(utils.starships);
-    const [datafiltered] = useShipsFilter(data,props.filter);
-    //console.log(datafiltered);
+    const [datafiltered] = useShipsFilter(data,props.filter,props.setMaxFilms,props.setTotalShips);
+  console.log(datafiltered);
 
   return (
     <div>
