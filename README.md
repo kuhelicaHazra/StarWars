@@ -22,7 +22,8 @@ CSS --> Ant Design, SASS
 
 ### Screenshots:
 Loading:
-![image](https://github.com/kuhelicaHazra/StarWars/assets/36133713/11cc353a-ed0b-490f-8d44-a6ed468f21a1)
+![image](https://github.com/kuhelicaHazra/StarWars/assets/36133713/88d611a5-922a-48e1-98bc-c5293bb0716c)
+
 
 Home Page: 
 [[sapceships sorted by minimum crew]]
